@@ -278,6 +278,7 @@
                     found = true;
                     //bounds.extend(marker.getPosition());
                 });
+                
             }
             /*if(found)
                 map.fitBounds(bounds);*/
